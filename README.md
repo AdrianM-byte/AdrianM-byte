@@ -42,7 +42,7 @@ A decision-based system for automated PC configuration.
 - Multi-source comparison concept  
 - Currently under development  
 
-🔗 Live Demo: https://pc-builder-r9lb.onrender.com/
+🔗 Live Demo: https://pc-builder-n26p.onrender.com/
 🔗 Code: https://github.com/AdrianM-byte/PC-Builder
 ---
 
